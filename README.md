@@ -1,4 +1,4 @@
-# Iamruinous Matrix-tools
+# iamruinous matrix-tools
 
 ## How do I install these formulae?
 
