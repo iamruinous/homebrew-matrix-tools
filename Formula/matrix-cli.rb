@@ -1,8 +1,8 @@
 class MatrixCli < Formula
   desc "Command-line tool for matrix.org communication service"
   homepage "https://github.com/iamruinous/matrix-cli"
-  url "https://github.com/iamruinous/matrix-cli/archive/v0.0.2.tar.gz"
-  sha256 "8afa465acee3630a578d332352981d67c73f1be6b537b48a3aabb62f23aab6ae"
+  url "https://github.com/iamruinous/matrix-cli/archive/v0.0.3.tar.gz"
+  sha256 "1513838a83b893036262118c9f856bad707492d168c32e22eb96d4c8a6c0abee"
   license "MIT"
   head "https://github.com/iamruinous/matrix-cli.git", branch: "main"
 
