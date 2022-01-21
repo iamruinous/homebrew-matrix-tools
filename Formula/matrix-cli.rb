@@ -8,9 +8,9 @@ class MatrixCli < Formula
 
   bottle do
     root_url "https://ghcr.io/v2/iamruinous/matrix-tools"
-    sha256 cellar: :any_skip_relocation, big_sur:      "50a868242487231b0789151ae80e26377832c7bd2cf6fe9bd65a6ce1dc1c2f8a"
-    sha256 cellar: :any_skip_relocation, catalina:     "98d1f9fc2bfac60b2df2918819c732307a909af0c2e85a0bbad149910adbff43"
-    sha256 cellar: :any_skip_relocation, x86_64_linux: "9ba27305f49680dda9c02de8ed7477c5f6f2039e0354bc26cda8a59ced28389c"
+    sha256 cellar: :any_skip_relocation, big_sur:      "9e800f405f23f6147b68dcad691d08625155a5f7f599c6281c3c1e76c7b617b4"
+    sha256 cellar: :any_skip_relocation, catalina:     "36f937ad0ede84e85abcaa36bc1dd57fdd9f5f5e09141136119b38bae063aa36"
+    sha256 cellar: :any_skip_relocation, x86_64_linux: "a902b4b896de256e1d6f75ada3bb305e1770618fe1b45c02b45088728016165d"
   end
 
   depends_on "cmake" => :build
